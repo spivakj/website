@@ -12,7 +12,7 @@ tags = [
 
 This post demonstrates basic LaTeX in Hugo Markdown.
 
-Inline math example: Euler's identity $e^{i\pi} + 1 = 0$ inside a sentence.
+Inline math example: Euler's identity $e^{i\pi} + 1 = 0$s inside a sentence.
 
 Display math (centered):
 $$
