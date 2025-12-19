@@ -6,4 +6,4 @@ weight = 1
 
 # Hello!
 
-I like robust systems software. Sometimes I write things on here. 
+I like systems software. Sometimes I write things on here. 
