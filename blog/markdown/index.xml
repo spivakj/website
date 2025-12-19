@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Markdown on Jon Spivak</title><link>https://spivakj.github.io/website/blog/markdown/</link><description>Recent content in Markdown on Jon Spivak</description><generator>Hugo</generator><language>en-US</language><copyright>Copyright © 2025, Jon Spivak.</copyright><lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://spivakj.github.io/website/blog/markdown/index.xml" rel="self" type="application/rss+xml"/><item><title>Test blog post</title><link>https://spivakj.github.io/website/test-blog-post/</link><pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate><guid>https://spivakj.github.io/website/test-blog-post/</guid><description>&lt;h1 id="test-latex-examples"&gt;Test: LaTeX examples&lt;/h1&gt;
 &lt;p&gt;This post demonstrates basic LaTeX in Hugo Markdown.&lt;/p&gt;
-&lt;p&gt;Inline math example: Euler&amp;rsquo;s identity $e^{i\pi} + 1 = 0$ inside a sentence.&lt;/p&gt;
+&lt;p&gt;Inline math example: Euler&amp;rsquo;s identity $e^{i\pi} + 1 = 0$s inside a sentence.&lt;/p&gt;
 &lt;p&gt;Display math (centered):
 $$
 \int_{-\infty}^{\infty} e^{-x^2},dx = \sqrt{\pi}
