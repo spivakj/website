@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://spivakj.github.io/sitemap.xml
+Sitemap: https://spivakj.github.io/website/sitemap.xml
